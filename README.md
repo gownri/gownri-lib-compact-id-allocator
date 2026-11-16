@@ -28,4 +28,4 @@ allocator.OnShrink += newMax => { /* the recorded maximum shrank */ };
 
 ## Note
 
-The description in this README was summarized by an AI assistant based on the source code.
+The description in this README was summarized by Mint, an AI assistant, based on the source code. Edits made by Mint are committed through the `mint-sharp` machine account.
