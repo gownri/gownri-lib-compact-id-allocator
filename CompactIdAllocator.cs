@@ -7,7 +7,7 @@ using System.Threading;
 
 namespace Gownri.IndexFriendly;
 
-internal class CompactIdAllocator
+public class CompactIdAllocator
 {
 #if DEBUG
     internal ulong RentCursor
